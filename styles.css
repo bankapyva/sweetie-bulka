@@ -1,0 +1,111 @@
+.navbar {
+    background-color: #9c9c9a;
+  }
+
+  body {
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+
+  .navbar-nav {
+    margin-left:auto;
+    margin-right:10px;
+  }
+
+  .navbar-brand {
+    margin-left: 20px;
+  }
+
+  .bg-light.text-center.py-3 {
+    background-color: #214467;
+  }
+  
+  .products {
+    padding: 20px;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .product-item {
+    text-align: center;
+  }
+  
+  .product-item img {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+body {
+    background-color: #f8f9fa;
+    background-image: url('https://www.example.com/path-to-bakery-texture.jpg'); 
+    background-size: cover; 
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    color: #333; 
+  }
+  
+  .navbar {
+    background-color: #f2d49d;
+  }
+  
+  .navbar-brand {
+    color: #214467;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #214467;
+    font-size: 16px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #f39c12; 
+  }
+  
+  .bg-light.text-center.py-3 {
+    background-color: #214467;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  #about-us {
+    background-color: #fff9e6;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #about-us h2 {
+    color: #214467;
+    font-size: 28px;
+  }
+  
+  #about-us p {
+    color: #555;
+    line-height: 1.6;
+    font-size: 18px;
+  }
+  
+  #about-us img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  form {
+    background-color: #fff9e6;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form .form-label {
+    font-size: 18px;
+    color: #214467;
+  }
+  
+
+
